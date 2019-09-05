@@ -15,5 +15,5 @@ conjunction = {
     'si' : ['if', 'whether'],
     'porque' : 'because',
     'cuando' : 'when',
-    'ni' : ['not even', '']
+    'ni' : ['not even', 'neither', 'nor']
 }
