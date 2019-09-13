@@ -1,3 +1,5 @@
+# source: https://senorasenora.files.wordpress.com/2018/09/a_frequency_dictionary_of_spanish.pdf
+
 # fuction words
 
 article = {
