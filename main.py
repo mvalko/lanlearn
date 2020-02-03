@@ -4,6 +4,9 @@ import random
 
 lanlist = listdir('lan')
 
+def menu():
+    print("Main Menu")
+
 def match():
     score = 0
     #while usrinput not '0':
@@ -30,10 +33,4 @@ def availan():
 		print(lanlist[i])
 	lanselect(lanlist[int(input("Enter index value of the desired language: "))].strip('.py')
 
-# main menu function
-def mainMenu():
-	print("Main Menu")
-	availan()
-	match()
-
-mainMenu()
+menu():
