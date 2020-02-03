@@ -129,7 +129,7 @@ pronoun = {
 	'les' : 'you all',
 	'los' : 'them',
 	'las' : 'them',
-	'les' : 'to them'
+	'les' : 'to them',
 	'el' : 'he',
 	'que' : ['what?', 'which?', 'how!'],
 	'yo' : 'I',
@@ -147,7 +147,7 @@ pronoun = {
 	'quien' : ['who?', 'whom?'],
 	'ello' : 'it',
 	'mi' : 'me',
-	'cual' : 'which?'
+	'cual' : 'which?',
 	'alguien' : ['somebody', 'someone', 'anyone'],
 	'suyo' : ['his', 'hers', 'yours', 'theirs'],
 	'tu' : 'you',
